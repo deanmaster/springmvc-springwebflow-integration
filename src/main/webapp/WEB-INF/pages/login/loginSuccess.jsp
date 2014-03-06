@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Welcome to Spring Webmvc and Spring Webflow Integration example</h1>
+	<h1>Login Successfully !!!</h1>
+	Welcome ${userName}. Your session Id generated: ${sessionId}.
 </body>
 </html>
